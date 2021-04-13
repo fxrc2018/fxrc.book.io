@@ -1,3 +1,8 @@
+<!-- MathJax -->
+<script type="text/javascript"
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/fxrc2018/fxrc.book.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -35,3 +40,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+inline: $x^2 + y^2 = 1$
+newline: $$x^2 + y^2 = 1$$
