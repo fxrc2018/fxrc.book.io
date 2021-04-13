@@ -1,7 +1,7 @@
 <!-- 数学公式 -->
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-<script type="text/javascript" src="path-to-MathJax/MathJax.js">
-    MathJax.Hub.Config({
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
         extensions: ["tex2jax.js"],
         jax: ["input/TeX", "output/HTML-CSS"],
         tex2jax: {
