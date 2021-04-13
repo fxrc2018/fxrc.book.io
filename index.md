@@ -56,4 +56,9 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 inline: $x^2 + y^2 = 1$
-newline: $$x^2 + y^2 = 1$$
+
+newline: 
+
+$$
+x^2 + y^2 = 1
+$$
